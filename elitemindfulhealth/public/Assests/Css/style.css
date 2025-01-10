@@ -1,0 +1,90 @@
+
+/**herohead1 start**/
+.bg-colorhead1{
+    background-color: rgba(160, 209, 210, 1);
+    }
+
+.btn-colorpink{
+    background-color: rgba(243, 139, 121, 1)!important;
+}
+.btn-colorpink:hover{
+    background-color: red!important;
+}
+
+.font-para{
+    font-size: 25px;
+    font-weight: 100;
+}
+.hero1head{
+    
+}
+
+.hero1img{
+    width: 550px;
+    height: 550px;
+    
+}
+
+
+    /**herohead1 end**/
+
+
+/**heromain*/
+
+.docimg{
+width: 100%;
+border-radius: 30px;
+}
+
+/* heromain end */
+
+
+/* maincards start */
+
+.background-colormaincard{
+ background-color: rgba(242, 228, 216, 1);
+}
+
+.card{
+    width: 18rem;
+}
+
+
+/* maincards end */
+
+/* Inspiraton start */
+
+.cards2{
+    width: 100%;
+    margin-top: 20px;
+    margin: 20px;
+    
+}
+
+.card2img{
+    
+    width: 100%;
+    
+}
+
+/* inspiration end */
+
+/* heroend start */
+
+.bg-heroend{
+    background-color: rgba(160, 209, 210, 1);
+}
+/* heroend end */
+
+/* footer */
+.endline{
+    margin-bottom: 0%;
+    
+}
+
+.serviceimg{
+    margin-bottom: 0%!important;
+}
+.card-body1{
+    margin-top: 0%!important;
+}
