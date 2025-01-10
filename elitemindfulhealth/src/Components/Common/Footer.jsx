@@ -2,8 +2,8 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div>
-      <div className='row mx-3 py-5'>
+    <div className='footercolor'>
+      <div className='row mx-3 py-5 mt-5'>
         <div className='col-md-3'>
 <img src="./Assests/Images/image 4.png" alt="" className='w-100'/>
 <p>Email Address: info@elitemindfulhealth.net</p>

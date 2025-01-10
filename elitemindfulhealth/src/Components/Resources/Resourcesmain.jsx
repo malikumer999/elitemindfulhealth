@@ -6,20 +6,21 @@ function Resourcesmain() {
       <div className="row mx-5">
         <div className="col-2 col-md-block"></div>
         <div className="col-md-8">
-          <div className="text-center">
-            <button className="btn  btn-colorpink mt-5 rounded-5">
-              What we do
-            </button>
-
+          <div className="">
+            <div className="text-center">
+              <button className="btn  btn-colorpink mt-5 rounded-5 ">
+                What we do
+              </button>
+            </div>
             <img
               src="./Assests/Images/Rectangle 1070.png"
               className="w-100 py-5"
               alt=""
             />
 
-            <p>29 October,2024</p>
+            <p className="text-center">29 October,2024</p>
 
-            <h1>
+            <h1 className="text-center">
               <span className="text-primary">Elite Mindful</span> Health Blog
             </h1>
 

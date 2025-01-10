@@ -23,7 +23,7 @@ Balanced Life</div>
         </div> 
     
     <div className='col-md-6 text-center'>
-<img src="./Assests/Images/smilingboy.png" className='hero1img pt-4' alt="" />
+<img src="./Assests/Images/smilingboy.png" className='hero1img pt-4 w-100' alt="" />
     </div>
     </div>
     </div>

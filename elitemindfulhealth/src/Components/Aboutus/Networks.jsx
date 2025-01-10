@@ -10,28 +10,28 @@ function Networks() {
       </div>
       <div className='row mx-2 py-5'>
         <div className='col-md-3'>
-<img src="./Assests/Images/avmed.png" alt="" />
+<img src="./Assests/Images/avmed.png" className='w-100' alt="" />
         </div>
         <div className='col-md-3'>
-<img src="./Assests/Images/Frame 1261158762.png" alt="" />
+<img src="./Assests/Images/Frame 1261158762.png" className='w-100' alt="" />
         </div>
         <div className='col-md-3'>
-<img src="./Assests/Images/image (1).png" alt="" />
+<img src="./Assests/Images/image (1).png" className='w-100' alt="" />
 </div>
 <div className='col-md-3'>
-<img src="./Assests/Images/image 12.png" alt="" />
+<img src="./Assests/Images/image 12.png" className='w-100' alt="" />
 </div>
 <div className='col-md-3'>
-<img src="./Assests/Images/image 13.png" alt="" />
+<img src="./Assests/Images/image 13.png" className='w-100' alt="" />
 </div>
 <div className='col-md-3'>
-<img src="./Assests/Images/image 15.png" alt="" />
+<img src="./Assests/Images/image 15.png" className='w-100' alt="" />
 </div>
 <div className='col-md-3'>
-<img src="./Assests/Images/image 16.png" alt="" />
+<img src="./Assests/Images/image 16.png" className='w-100' alt="" />
 </div>
 <div className='col-md-3'>
-<img src="./Assests/Images/image 17.png" alt="" />
+<img src="./Assests/Images/image 17.png" className='w-100' alt="" />
 </div>
       </div>
     </div>

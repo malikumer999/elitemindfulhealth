@@ -3,7 +3,8 @@ import React from "react";
 
 function Cards(props) {
   return (
-    <div className='col-md-3 pt-5 pb-5  '>
+    
+    <div className='col-xl-3 col-md-6  mt-5 mb-5  '>
     <div class="card p-2 rounded-4 border-0" >
         <img src={props?.imgSrc || "/Assets/images/default.jpg"} class="card-img-top " alt="..." />
         <div class="card-body">
@@ -15,6 +16,7 @@ function Cards(props) {
         </div>
     </div>
 </div>
+
   );
 }
 

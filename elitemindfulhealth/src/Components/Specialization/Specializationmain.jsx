@@ -5,7 +5,7 @@ function Specializationmain() {
     <div>
       <div className="row mx-5 py-5">
         <div className="col-md-6">
-          <img src="./Assests/Images/q.png" alt="" />
+          <img src="./Assests/Images/q.png" className='w-100' alt="" />
         </div>
         <div className="col-md-6 py-5">
           <button className="btn  btn-colorpink mb-3 rounded-5">
@@ -43,11 +43,11 @@ function Specializationmain() {
             <p>Identifying thought patterns contributing to anxiety and equipping you with strategies to manage and reframe those thoughts.</p>
           </div>
           <div className="col-md-6">
-            <img src="./Assests/Images/w.png" alt="" />
+            <img src="./Assests/Images/w.png" className='w-100' alt="" />
           </div>
         </div>
         <div className="row mx-5 pb-5">
-          <div className="col-md-6"><img src="./Assests/Images/e.png" alt="" /></div>
+          <div className="col-md-6"><img src="./Assests/Images/e.png" className='w-100' alt="" /></div>
           <div className="col-md-6 mt-5">
             <h3>Holistic Strategies</h3>
             <h5><li>Mindfulness and Meditation</li></h5>
@@ -74,7 +74,7 @@ function Specializationmain() {
           </p>
         </div>
         <div className="col-md-6">
-          <img src="./Assests/Images/r.png" alt="" />
+          <img src="./Assests/Images/r.png" className='w-100' alt="" />
         </div>
        
       </div>

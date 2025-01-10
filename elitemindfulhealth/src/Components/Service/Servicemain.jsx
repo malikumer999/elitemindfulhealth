@@ -9,7 +9,7 @@ function Servicemain() {
 
       <div className="row mx-5 py-5">
         <div className="col-md-6">
-          <img src="./Assests/Images/1.png" alt="" />
+          <img src="./Assests/Images/1.png" className='w-100' alt="" />
         </div>
         <div className="col-md-6">
           <button className="btn  btn-colorpink  rounded-5 mt-3 mb-3">
@@ -60,7 +60,7 @@ function Servicemain() {
 
       <div className="row mx-5 py-5 ">
         <div className="col-md-6">
-          <img src="./Assests/Images/image (5).png" alt="" />
+          <img src="./Assests/Images/image (5).png" className='w-100' alt="" />
         </div>
         <div className="col-md-6 py-5 ">
           <h1 className="mb-4">Holistic Strategies</h1>

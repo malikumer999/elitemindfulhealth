@@ -3,11 +3,11 @@ import React from 'react'
 function Heromain() {
   return (
     <div>
-      <div className=' row container mx-5 py-5 '>
+      <div className=' row  mx-5 py-5 '>
 <div className='col-md-6'>
-<img className='docimg ' src="./Assests/Images/image 5.png" alt="" />
+<img className='docimg w-75' src="./Assests/Images/image 5.png" alt="" />
 </div>
-<div className='col-md-6 mt-3'>
+<div className='col-md-6 mt-3 '>
 <button className='btn btn-colorpink rounded-5'>Who We Are?</button>
 <h1 className='mt-2'>
     <b className='text-primary  '>About</b> the Company
