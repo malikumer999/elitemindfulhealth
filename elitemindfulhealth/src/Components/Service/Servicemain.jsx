@@ -40,7 +40,7 @@ function Servicemain() {
           </h1>
         </div>
 
-        <div className="row mx-5  container">
+        <div className="row mx-5  ">
           <div className="col-md-6 d-flex justify-content-center align-items-center">
             <Servicescard
               title="Evidence-Based Therapies:"
@@ -91,14 +91,14 @@ function Servicemain() {
         </div>
         <div className="col-md-6">
           <div className="row">
-            <div className="col-md-6">
+            <div className="col-xl-6">
               <Cardsnobtn
               titlee="Holistic Self-Care" 
               title="Nutritional Counseling"
               description="Understanding the connection between nutrition and anxiety, and creating a personalized plan to support emotional well-being."
               imgSrc="./Assests/Images/image (6).png"/>
             </div>
-            <div className="col-md-6">
+            <div className="col-xl-6">
               <Cardsnobtn 
               titlee="In-Network Providers"
                title="Insurance Logos"

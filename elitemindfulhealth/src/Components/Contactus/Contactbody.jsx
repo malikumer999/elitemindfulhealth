@@ -14,7 +14,7 @@ function Contactbody() {
                 </label>
                 <input
                   type="text"
-                  className=" px-3 py-1 rounded-2"
+                  className="form-control mt-2 mb-3 p-2 rounded-3"
                   name=""
                   id=""
                   placeholder="Name"
@@ -26,7 +26,7 @@ function Contactbody() {
                 </label>
                 <input
                   type="email"
-                  className=" px-3 py-1 rounded-2"
+                  className="form-control mt-2 mb-3 p-2 rounded-3"
                   placeholder="Email"
                 />
               </div>
@@ -39,7 +39,7 @@ function Contactbody() {
                 </label>
                 <input
                   type="number"
-                  className=" px-3 py-1 rounded-2"
+                  className="form-control mt-2 mb-3 p-2 rounded-3"
                   name=""
                   id=""
                   placeholder="Phone Number"
@@ -51,13 +51,13 @@ function Contactbody() {
                 </label>
                 <input
                   type="number"
-                  className=" px-3 py-1 rounded-2"
+                  className="form-control mt-2 mb-3 p-2 rounded-3"
                   placeholder="Select contact method"
                 />
               </div>
               <div className="col-md-12 py-5">
                 <label htmlFor="">Message for Inquiry Details</label>
-                <input type="text" className="w-100 rounded-2 py-5 mt-2 " />
+                <textarea name="" className="form-control w-100 rounded-2 pb-5 mt-2 " id=""></textarea>
               </div>
               <div class=" border-0 bg-colorhead1">
     <input class="form-check-input mt-1 " type="radio" value="" aria-label="Radio button for following text input"/>
@@ -82,22 +82,22 @@ function Contactbody() {
         <div className="col-md-6 ">
           <h1>Contact Information</h1>
           <div className="row mt-3">
-            <div className="col-md-6">
+            <div className="col-md-3">
               <p className="fw-bold">Email Address:</p>
             </div>
-            <div className="col-md-6">  info@elitemindfulhealth.net</div>
-            <div className="col-md-6">
+            <div className="col-md-9">  info@elitemindfulhealth.net</div>
+            <div className="col-md-3">
               <p className="fw-bold">Phone Number:</p>
             </div>
-            <div className="col-md-6">(561) 801-6920</div>
-            <div className="col-md-6">
+            <div className="col-md-9">(561) 801-6920</div>
+            <div className="col-md-3">
               <p className="fw-bold">Physical Address:</p>
             </div>
-            <div className="col-md-6">11327 Okeechobee   Blvd, Royal Palm Beach, FL 33411.</div>
-            <div className="col-md-6">
+            <div className="col-md-9">11327 Okeechobee   Blvd, Royal Palm Beach, FL 33411.</div>
+            <div className="col-md-3">
               <p className="fw-bold">Business Hours:</p>
             </div>
-            <div className="col-md-6">Monday – Friday: 8 AM – 6 PM</div>
+            <div className="col-md-9">Monday – Friday: 8 AM – 6 PM</div>
           </div>
 
           <img src="./Assests/Images/m.png" className="w-100 mt-5" alt="" />

@@ -1,5 +1,4 @@
 import React from 'react'
-import Slider from '../Common/Slider'
 
 function Patienttest() {
   return (
@@ -12,7 +11,7 @@ function Patienttest() {
 
         </div>
         <div className='col-md-8'>
-<Slider/>
+<img src="./Assests/Images/Frame 1261158714.png" className='w-100' alt="" />
         </div>
       </div>
     </div>
