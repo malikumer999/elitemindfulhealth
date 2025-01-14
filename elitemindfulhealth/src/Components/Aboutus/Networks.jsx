@@ -8,7 +8,7 @@ function Networks() {
      <h1>In <b className='text-primary'> Network</b> with</h1>
 
       </div>
-      <div className='row mx-2 py-5'>
+      <div className='row mx-5 py-5'>
         <div className='col-md-3'>
 <img src="./Assests/Images/avmed.png" className='w-100' alt="" />
         </div>

@@ -12,7 +12,7 @@ function Heroend() {
 
 </div>
 <div className='col-md-6 '>
-<img src="./Assests/Images/Frame 1261158733.png" className='w-75' alt="" />
+<img src="./Assests/Images/Frame 1261158733.png" className='w-100' alt="" />
 </div>
       </div>
     </div>

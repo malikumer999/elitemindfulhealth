@@ -10,7 +10,7 @@ function Inspirations() {
 
       </div>
       <div className='row'>
-        <div className='col-md-6 fs-5'>
+        <div className='col-md-6 fs-5 d-flex justify-content-center '>
 <Blogcards title="Navigating ADHD: A Holistic Approach to Managing Symptoms" description="Attention Deficit Hyperactivity Disorder (ADHD) is a neuro- developmental condition that affects individuals of all ages..." imgSrc="./Assests/Images/imagel.png"/>
         </div>
         <div className='col-md-6 fs-5'>

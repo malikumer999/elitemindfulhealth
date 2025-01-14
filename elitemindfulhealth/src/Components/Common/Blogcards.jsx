@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 function Blogcards(props) {
   return (
     <div>
-      <div class="card cards2 border-0 gx-5 " >
+      <div class="card mt-5 border-0  w-100" >
       <img src={props?.imgSrc || "/Assets/images/default.jpg"} class="card-img-top " alt="..." />
   <div class="card-body">
     <h5 class="card-title">{props?.title || "Card Title Not Avaliable"}</h5>

@@ -13,7 +13,7 @@ function Maincards() {
             Comprehensive <b className="text-primary">Mental Health Services</b>
           </h1>
         </div>
-        <div className="row">
+        <div className="row ">
             <Cards
 
               title="Anxity Treatment"

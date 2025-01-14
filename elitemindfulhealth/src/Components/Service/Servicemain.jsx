@@ -95,7 +95,7 @@ function Servicemain() {
               <Cardsnobtn
               titlee="Holistic Self-Care" 
               title="Nutritional Counseling"
-              description="Understanding the connection between nutrition and anxiety, and creating a personalized plan to support emotional well-being."
+              description="Understanding the connection between nutrition and anxiety, and creating a personalized plan."
               imgSrc="./Assests/Images/image (6).png"/>
             </div>
             <div className="col-xl-6">
