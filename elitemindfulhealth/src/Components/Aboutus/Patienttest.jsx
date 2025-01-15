@@ -3,7 +3,7 @@ import React from 'react'
 function Patienttest() {
   return (
     <div className='mt-5 '>
-      <div className='row mx-5 py-5  '>
+      <div className='row mx-5 py-4  '>
         <div className='col-md-4 '>
         <button className='btn  btn-colorpink  rounded-5'>Patient Testimonials</button>
 
