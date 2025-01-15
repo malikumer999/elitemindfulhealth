@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
-    <div>
-      <nav class="navbar navbar-expand-lg  d-flex  ">
-        <div class="container-fluid ">
+    <div className="">
+      <nav class="navbar navbar-expand-lg  ">
+        <div class="container-fluid  ">
           <Link class="navbar-brand " to="/">
             <img width={250} src="./Assests/Images/image 4.png" alt="" />
           </Link>
@@ -21,7 +21,7 @@ function Navbar() {
             <span class="navbar-toggler-icon"></span>
           </button>
           <div
-            class="collapse navbar-collapse justify-content-around "
+            class="collapse navbar-collapse  justify-content-center"
             id="navbarNavAltMarkup"
           >
             <div class="navbar-nav ">
@@ -40,11 +40,15 @@ function Navbar() {
               <Link class="nav-link" to="/contactus">
                 Contact Us
               </Link>
-            </div>
+            </div >
+
           </div>
-          <div>
-          <button className="btn btn-primary d-md-block">Book a Sechedule</button></div>
+          <div className="justify-content-end collapse navbar-collapse  " id="navbarNavAltMarkup">
+          <button className="btn btn-primary d-flex ">Book a Sechedule</button></div>
+
         </div>
+        
+          
         
       </nav>
     </div>
