@@ -24,27 +24,27 @@ function Navbar() {
             class="collapse navbar-collapse  justify-content-center"
             id="navbarNavAltMarkup"
           >
-            <div class="navbar-nav ">
-              <Link class="nav-link " aria-current="page" to="/">
+            <div class="navbar-nav ms-5">
+              <Link class="nav-link ms-3" aria-current="page" to="/">
                 About Us
               </Link>
-              <Link class="nav-link" to="/services">
+              <Link class="nav-link ms-3" to="/services">
                 Services
               </Link>
-              <Link class="nav-link" to="/specialization">
+              <Link class="nav-link ms-3" to="/specialization">
                 Specialization
               </Link>
-              <Link class="nav-link" to="/resources">
+              <Link class="nav-link ms-3" to="/resources">
                 Resources
               </Link>
-              <Link class="nav-link" to="/contactus">
+              <Link class="nav-link ms-3" to="/contactus">
                 Contact Us
               </Link>
             </div >
 
           </div>
-          <div className="justify-content-end collapse navbar-collapse  " id="navbarNavAltMarkup">
-          <button className="btn btn-primary d-flex ">Book a Sechedule</button></div>
+          <span className="justify-content-end collapse navbar-collapse  " id="navbarNavAltMarkup">
+          <button className="btn btn-primary d-flex ">Book a Sechedule</button></span>
 
         </div>
         
