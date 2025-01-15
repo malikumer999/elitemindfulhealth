@@ -9,7 +9,7 @@ function Servicemain() {
 
       <div className="row mx-5 py-5">
         <div className="col-md-6">
-          <img src="./Assests/Images/1.png" className='w-100' alt="" />
+          <img src="./Assests/Images/1.png" className="w-100" alt="" />
         </div>
         <div className="col-md-6">
           <button className="btn  btn-colorpink  rounded-5 mt-3 mb-3">
@@ -58,11 +58,11 @@ function Servicemain() {
         </div>
       </div>
 
-      <div className="row mx-5 py-5 ">
+      <div className="row mx-5 py-4 ">
         <div className="col-md-6">
-          <img src="./Assests/Images/image (5).png" className='w-100' alt="" />
+          <img src="./Assests/Images/image (5).png" className="w-100" alt="" />
         </div>
-        <div className="col-md-6 py-5 ">
+        <div className="col-md-6  ">
           <h1 className="mb-4">Holistic Strategies</h1>
           <h5>
             <li>Mindfulness and Meditation</li>
@@ -77,8 +77,8 @@ function Servicemain() {
       </div>
 
       <div className="row mx-5 ">
-        <div className="col-md-6 py-5">
-          <button className="btn  btn-colorpink  rounded-5">
+        <div className="col-md-6 py-3">
+          <button className="btn  btn-colorpink  rounded-5 mb-2">
             Our Services
           </button>
           <h1>
@@ -90,20 +90,22 @@ function Servicemain() {
           </p>
         </div>
         <div className="col-md-6">
-          <div className="row">
+          <div className="row py-3">
             <div className="col-xl-6">
               <Cardsnobtn
-              titlee="Holistic Self-Care" 
-              title="Nutritional Counseling"
-              description="Understanding the connection between nutrition and anxiety, and creating a personalized plan."
-              imgSrc="./Assests/Images/image (6).png"/>
+                titlee="Holistic Self-Care"
+                title="Nutritional Counseling"
+                description="Understanding the connection between nutrition and anxiety, and creating a personalized plan."
+                imgSrc="./Assests/Images/image (6).png"
+              />
             </div>
             <div className="col-xl-6">
-              <Cardsnobtn 
-              titlee="In-Network Providers"
-               title="Insurance Logos"
-               description="Aetna, AvMed, Evernorth, Cigna, Optum, Oxford, United Healthcare (UHC and UBH)"
-               imgSrc="./Assests/Images/image (7).png"/>
+              <Cardsnobtn
+                titlee="In-Network Providers"
+                title="Insurance Logos"
+                description="Aetna, AvMed, Evernorth, Cigna, Optum, Oxford, United Healthcare (UHC and UBH)"
+                imgSrc="./Assests/Images/image (7).png"
+              />
             </div>
           </div>
         </div>

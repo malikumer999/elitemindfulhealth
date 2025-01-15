@@ -3,7 +3,7 @@ import React from "react";
 
 function Cardsnobtn(props) {
   return (
-    <div className='col-md-3 pt-5 pb-5  '>
+    <div className='col-md-3 pt-3 pb-3  '>
     <div class="card p-2 rounded-4 border-0 shadow" >
     <h5 class="card-title text-center fw-bold ">{props?.titlee || "Card Title Not Avaliable"} </h5>
 
