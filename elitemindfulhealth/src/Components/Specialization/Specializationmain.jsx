@@ -3,7 +3,7 @@ import React from "react";
 function Specializationmain() {
   return (
     <div>
-      <div className="row mx-5 py-5">
+      <div className="row mx-5 mt-4">
         <div className="col-md-6">
           <img src="./Assests/Images/q.png" className='w-100' alt="" />
         </div>
@@ -28,7 +28,7 @@ function Specializationmain() {
           <button className="btn  btn-colorpink mb-3 rounded-5">
             Overview
           </button>
-          <h1 className="py-3">
+          <h1 className="py-3 mx-5">
             <span className="text-primary">Our approach</span> goes beyond
             surface level <span className="text-primary"> relief;</span> <br />
             it addresses root causes and{" "}
@@ -46,7 +46,7 @@ function Specializationmain() {
             <img src="./Assests/Images/w.png" className='w-100' alt="" />
           </div>
         </div>
-        <div className="row mx-5 pb-5">
+        <div className="row mx-5 ">
           <div className="col-md-6"><img src="./Assests/Images/e.png" className='w-100' alt="" /></div>
           <div className="col-md-6 mt-5">
             <h3>Holistic Strategies</h3>
@@ -60,7 +60,7 @@ function Specializationmain() {
         </div>
       </div>
 
-      <div className="row mx-5 py-5">
+      <div className="row mx-5 py-3">
       <div className="col-md-6 py-5">
           <button className="btn  btn-colorpink mb-3 rounded-5">
             What we do
