@@ -6,7 +6,7 @@ function Maincards() {
     <div className="background-colormaincard ">
       <div className="mx-5 py-5">
         <div className="text-center">
-          <button className="btn  btn-colorpink  rounded-5">
+          <button className="btn  btn-colorpink  rounded-5 mb-2">
             Our services
           </button>
           <h1>

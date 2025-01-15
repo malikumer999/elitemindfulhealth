@@ -9,25 +9,26 @@ function Contactbody() {
             <div className="row mx-5">
               <div className="col-md-6">
                 {" "}
-                <label htmlFor="" className="mb-1">
+                <label htmlFor="firstname" className="mb-1">
                   First Name
                 </label>
                 <input
                   type="text"
                   className="form-control mt-2 mb-3 p-2 rounded-3"
-                  name=""
-                  id=""
+                  name="firstname"
+                  id="firstname"
                   placeholder="Name"
                 />
               </div>
               <div className="col-md-6">
-                <label htmlFor="" className="mb-1">
+                <label htmlFor="email" className="mb-1">
                   Email Address
                 </label>
                 <input
                   type="email"
                   className="form-control mt-2 mb-3 p-2 rounded-3"
                   placeholder="Email"
+                  id="email"
                 />
               </div>
             </div>

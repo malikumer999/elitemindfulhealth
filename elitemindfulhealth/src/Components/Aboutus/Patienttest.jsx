@@ -11,7 +11,7 @@ function Patienttest() {
 
         </div>
         <div className='col-md-8'>
-<img src="./Assests/Images/Frame 1261158714.png" className='w-100 mt-2' alt="" />
+<img src="./Assests/Images/Frame 1261158714.png" className='w-100 mt-4' alt="" />
         </div>
       </div>
     </div>
