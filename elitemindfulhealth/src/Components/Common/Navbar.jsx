@@ -43,7 +43,7 @@ function Navbar() {
             </div>
           </div>
           <div>
-          <button className="btn btn-primary ">Book a Sechedule</button></div>
+          <button className="btn btn-primary d-md-block">Book a Sechedule</button></div>
         </div>
         
       </nav>
